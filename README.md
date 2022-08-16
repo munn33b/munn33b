@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/munn33b&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
+  <img src="https://komarev.com/ghpvc/?username=munn33b&label=Profile%20views&color=0e75b6&style=flat" alt="munn33b" />
 </p>
 
 
