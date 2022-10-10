@@ -3,7 +3,7 @@
 
 <h1 align="center">
   
-  
+
   Hey there, I'm Muneeb  <img src="./images/hi.gif" width="30px" height="30px">
 </h1>
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 -->
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
 - 🔭 I’m currently working on Autonomous Pick and Place Robotic Arm based on YOLOv3 Object Detection and Classification System
-- 🌱 I’m currently learning ROS (Robot Operating System)
+- 🌱 I’m currently learning ROS (Robot Operating System) and PyTorch (Machine Learning Framework in Python)
 - 👯 I’m looking to collaborate on AI Projects
 - 🤔 I’m looking for help with Programming especially C++
 - 💬 Ask me about Anything related to Robotics
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <b>System & DevOps</b>
   <br>
   <br>
-  
+
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
     <code><img src="./images/linux.svg" alt="Linux" height="40"/></code>
   </a>
@@ -69,12 +69,12 @@ Here are some ideas to get you started:
   <a href="https://www.nginx.com" target="_blank">
     <code><img src="./images/nginx.svg" alt="Nginx" height="40"/></code>
   </a>
-  
+
   <br>
   <a href="https://cloud.google.com" target="_blank">
     <code><img src="./images/google-cloud.svg" alt="Google Cloud" height="40"/></code>
   </a>
- 
+
   <a href="https://azure.microsoft.com" target="_blank">
     <code><img src="./images/azure.svg" alt="Azure" height="40"/></code>
   </a>
