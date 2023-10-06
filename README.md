@@ -20,7 +20,7 @@
 </p>
 
 
-<p align="center"> <a href="https://twitter.com/munibur_rehman" target="blank"><img src="https://img.shields.io/twitter/follow/munibur_rehman?logo=twitter&style=for-the-badge" alt="munibur_rehman" /></a> </p>
+<p align="center"> <a href="https://twitter.com/muneeb_isme" target="blank"><img src="https://img.shields.io/twitter/follow/muneeb_isme?logo=twitter&style=for-the-badge" alt="muneeb_isme" /></a> </p>
 
 
 <img align='right' src="./images/coding.gif" width="300">
