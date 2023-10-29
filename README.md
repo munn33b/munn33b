@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on AI Projects
 - 🤔 I’m looking for help with Programming especially C++
 - 💬 Ask me about Anything related to Robotics
-- 📫 How to reach me: @twitter.com/munibur_rehman
+- 📫 How to reach me: @twitter.com/muneeb_isme
 - 😄 Pronouns: 
 - ⚡ Fun fact: Self Learner and it really means a lot
 
