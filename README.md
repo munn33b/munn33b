@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 -->
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
 - 🔭 I’m currently working with AWS DeepRacer (Simulation, Programming and custom Machine Learninng Models)
-- 🌱 I’m currently learning Embedded Systems Programming and PyTorch (Machine Learning Framework in Python)
+- 🌱 I’m currently learning Embedded Systems Programming and Keras (High Level API for Tensorflow, a Deep Learning Library in Python)
 - 👯 I’m looking to collaborate on AI Projects
 - 🤔 I’m looking for help with Programming especially C++
 - 💬 Ask me about Anything related to Robotics
