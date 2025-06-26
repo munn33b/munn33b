@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <b>Perpetual optimist and student of life —  engineering student, Linux enthusiast, cloud practitioner and critical thinker passionate about leveraging tech to Help Others.</b>
+  <b>Perpetual optimist and student of life —  Aspiring Roboticist, critical thinker passionate about leveraging tech to Help Others.</b>
 </p>
 
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
 - 🔭 I’m currently working with AWS DeepRacer (Simulation, Programming and custom Machine Learninng Models)
 - 🌱 I’m currently learning Embedded Systems Programming and Keras (High Level API for Tensorflow, a Deep Learning Library in Python)
-- 👯 I’m looking to collaborate on AI Projects
+- 👯 I’m looking to collaborate on Embodied AI Projects
 - 🤔 I’m looking for help with Programming especially C++
 - 💬 Ask me about Anything related to Robotics
 - 📫 How to reach me: @twitter.com/muneeb_isme
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <b>System & DevOps</b>
+  <b>System & Tools</b>
   <br>
   <br>
 
@@ -66,9 +66,6 @@ Here are some ideas to get you started:
   <br>
   <a href="https://docker.com" target="_blank">
     <code><img src="./images/docker.svg" alt="Docker" height="40"/></code>
-  </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <code><img src="./images/nginx.svg" alt="Nginx" height="40"/></code>
   </a>
 
   <br>
